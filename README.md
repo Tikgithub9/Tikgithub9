@@ -3,6 +3,18 @@
 
 Welcome to my GitHub profile! I'm a dedicated QA Automation Specialist with extensive expertise in automation testing, quality assurance, and business technology solutions. I specialize in creating robust, scalable automation frameworks and developing innovative testing tools that ensure software quality and drive business efficiency.
 
+```
+$$\      $$\           $$\                                             
+$$ | $\  $$ |          $$ |                                            
+$$ |$$$\ $$ | $$$$$$\  $$ | $$$$$$$\  $$$$$$\  $$$$$$\$$$$\   $$$$$$\  
+$$ $$ $$\$$ |$$  __$$\ $$ |$$  _____|$$  __$$\ $$  _$$  _$$\ $$  __$$\ 
+$$$$  _$$$$ |$$$$$$$$ |$$ |$$ /      $$ /  $$ |$$ / $$ / $$ |$$$$$$$$ |
+$$$  / \$$$ |$$   ____|$$ |$$ |      $$ |  $$ |$$ | $$ | $$ |$$   ____|
+$$  /   \$$ |\$$$$$$$\ $$ |\$$$$$$$\ \$$$$$$  |$$ | $$ | $$ |\$$$$$$$\ 
+\__/     \__| \_______|\__| \_______| \______/ \__| \__| \__| \_______|
+```                                                                       
+                                                                                                                                 
+
 ---
 
 ## 🛠️ **Technical Skills & Expertise**
