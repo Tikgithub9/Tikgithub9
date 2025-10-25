@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm a dedicated QA Automation Specialist with extensive expertise in automation testing, quality assurance, and business technology solutions. I specialize in creating robust, scalable automation frameworks and developing innovative testing tools that ensure software quality and drive business efficiency.
 
-![Keyboard Typing Animation](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/3941faae-3a65-40ae-9052-1905d0963c9b.png)
+![2D Animated Keyboard Typing](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/8a522fa3-39d2-4e74-893f-034c4708661e.png)
 
 ---
 
